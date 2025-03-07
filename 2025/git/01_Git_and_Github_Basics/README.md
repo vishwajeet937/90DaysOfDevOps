@@ -16,7 +16,7 @@ To make this challenge more difficult, additional steps have been added. You wil
 
 ### Task 1: Fork and Clone the Repository
 1. **Fork the Repository:**  
-   - Visit [this repository](https://github.com/LondheShubham153/90DaysOfDevOps) and fork it to your own GitHub account. If not done yet.
+   - Visit [this repository](https://github.com/vishwajeet937/90DaysOfDevOps) and fork it to your own GitHub account. If not done yet.
   
 2. **Clone Your Fork Locally:**  
    - Clone the forked repository using HTTPS:
